@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Campos
 
-**Last year Data Science Student at IU International University of Applied Sciences**
+**Data Scientist in progress at IU International University of Applied Sciences**
 
 ---
 
